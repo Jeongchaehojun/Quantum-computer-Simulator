@@ -1,3 +1,6 @@
+#20212426 정채호준 제작
+#구동 시 tkinter, numpy, matplotlib라이브러리 필요
+#[양자 컴퓨터 시뮬레이터] - 고전적 컴퓨터와 양자 컴퓨터를 비교하는 교육용 소프트웨어
 import tkinter as tk
 from tkinter import ttk, messagebox
 import math
