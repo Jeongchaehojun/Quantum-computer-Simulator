@@ -27,12 +27,13 @@
 <br>
 <br>
 고전적 컴퓨터 VS 양자 컴퓨터 검색 성능 비교
-![화면 캡처 2024-12-23 163819](https://github.com/user-attachments/assets/b6f3efae-c6bb-433d-862a-6ae60ce16e42)
-<br>
+![화면 캡처 2024-12-23 163819](https://github.com/user-attachments/assets/60299728-34a7-4c34-abb0-301fec04ebfa)
+
 <br>
 고전적 컴퓨터 VS 양자 컴퓨터 복잡도 비교 (matplotlib 활용)
-![화면 캡처 2024-12-23 163741](https://github.com/user-attachments/assets/86781cf7-c69c-42e2-9feb-67639e647652)
+![화면 캡처 2024-12-23 163741](https://github.com/user-attachments/assets/d19fc2aa-1362-4abc-b0f2-fa69cdc78cab)
+
 <br>
-<br>
+
 X게이트, H게이트, CNOT 게이트 로직 시뮬레이터 구현
 ![화면 캡처 2024-12-23 163905](https://github.com/user-attachments/assets/f45efc54-aea2-49bc-909d-04f04e23ca7e)
