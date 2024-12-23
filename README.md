@@ -1,6 +1,7 @@
 # Quantum-computer-Simulator
 제작: 정채호준(1인)
 <br>
+<br>
 과정: OpenAI의 ChatGPT를 사용하여 코드 작성 및 문제 해결에 도움을 받았습니다. ChatGPT는 인터넷의 정보를 기반으로 학습된 모델이지만, 개발 과정에서 직접적으로 사용된 코드는 깃허브의 다른 프로젝트에서 가져오지 않았습니다. MIT 라이선스를 따릅니다.
 <br>
 <br>
@@ -13,4 +14,15 @@
 <br>
 <br>
 실행 시 필요 라이브러리: tkinter, numpy, matplotlib
+<br>
+<br>
+고전적 컴퓨터 VS 양자 컴퓨터 검색 성능 비교
 ![화면 캡처 2024-12-23 163819](https://github.com/user-attachments/assets/b6f3efae-c6bb-433d-862a-6ae60ce16e42)
+<br>
+<br>
+고전적 컴퓨터 VS 양자 컴퓨터 복잡도 비교 (matplotlib 활용)
+![화면 캡처 2024-12-23 163741](https://github.com/user-attachments/assets/86781cf7-c69c-42e2-9feb-67639e647652)
+<br>
+<br>
+X게이트, H게이트, CNOT 게이트 로직 시뮬레이터 구현
+![화면 캡처 2024-12-23 163905](https://github.com/user-attachments/assets/f45efc54-aea2-49bc-909d-04f04e23ca7e)
