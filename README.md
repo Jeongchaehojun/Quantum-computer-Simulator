@@ -16,6 +16,16 @@
 실행 시 필요 라이브러리: tkinter, numpy, matplotlib
 <br>
 <br>
+6가지의 탭: 
+<br>
+1. 양자 컴퓨터와 고전적 컴퓨터의 검색 성능, 원리 비교
+2. 복잡도 그래프
+3. 양자 컴퓨터와 고전적 컴퓨터의 병렬처리 검색 원리 비교
+4. 확률적 분포도 시각화
+5. 추가요소
+6. X, H, CNOT 게이트 시뮬레이터
+<br>
+<br>
 고전적 컴퓨터 VS 양자 컴퓨터 검색 성능 비교
 ![화면 캡처 2024-12-23 163819](https://github.com/user-attachments/assets/b6f3efae-c6bb-433d-862a-6ae60ce16e42)
 <br>
