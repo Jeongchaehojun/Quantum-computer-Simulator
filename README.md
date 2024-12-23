@@ -25,11 +25,11 @@
 5. 추가요소
 6. X, H, CNOT 게이트 시뮬레이터
 <br>
-<br>
+
 고전적 컴퓨터 VS 양자 컴퓨터 검색 성능 비교
 ![화면 캡처 2024-12-23 163819](https://github.com/user-attachments/assets/60299728-34a7-4c34-abb0-301fec04ebfa)
 
-<br>
+
 고전적 컴퓨터 VS 양자 컴퓨터 복잡도 비교 (matplotlib 활용)
 ![화면 캡처 2024-12-23 163741](https://github.com/user-attachments/assets/d19fc2aa-1362-4abc-b0f2-fa69cdc78cab)
 
